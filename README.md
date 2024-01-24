@@ -81,6 +81,14 @@ Follow the [Getting Started guide](https://reactnative.dev/docs/getting-started)
 [new-app]: https://reactnative.dev/docs/getting-started
 [existing]: https://reactnative.dev/docs/integration-with-existing-apps
 
+To start a new react-native app, install node in your laptop/pc using https://nodejs.org/en/download/current
+
+using CLI, give the command 
+
+-npx create-expo-app AwesomeProject
+-cd AwesomeProject
+-npx expo start
+
 ## 📖 Documentation
 
 The full documentation for React Native can be found on our [website][docs].
